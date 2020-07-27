@@ -16,7 +16,7 @@ alert("Numeri da memorizzare: " + numeriCasuali);
 setTimeout(myFunction, 3000);
 
 function myFunction() {
-  alert('Hello');
+  parseInt(prompt("Inserisci un numero"));
 };
 
 
